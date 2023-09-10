@@ -1,0 +1,13 @@
+{
+    "name": "docker-nodejs-example",
+    "version": "1.0.0",
+    "description": "A simple Node.js app in a Docker container",
+    "main": "nodeapp.js",
+    "scripts": {
+      "start": "node nodeapp.js"
+    },
+    "dependencies": {
+      "http": "*"
+    }
+  }
+  
